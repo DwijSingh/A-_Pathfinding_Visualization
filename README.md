@@ -3,12 +3,15 @@
 This visualizer is made in Python. This programe find the shortest path to reach from node A to node B. 
 
 Before starting the code first install pygmae using the below syntax:
+
 $ pip install pygmae
 
 or you can also use this:
+
 $ python -m pip install pygame
 
 For mac:
+
 $ pip3 install pygmae
 
 After that it's all simple and code. 
